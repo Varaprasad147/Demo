@@ -1,1 +1,1 @@
-hi this an example text file
+hi-dev this an example text file and this dev2 changes as hi to hi-dev
